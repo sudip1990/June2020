@@ -1,0 +1,5 @@
+co\crm\qa\pages\CRMAccount.class
+co\crm\qa\pages\LoginPage.class
+com\crm\qa\base\TestBase.class
+com\crm\qa\util\TestUtil.class
+co\crm\qa\pages\HomePage.class
